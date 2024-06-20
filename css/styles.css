@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 body{
-background-color:aquamarine;
+background-color:beige;
 font-family: "poppins",sans-serif;
 margin: 0;
 padding: 0;
@@ -11,10 +11,4 @@ box-sizing: border-box;
 a{
     text-decoration:none;
 }
-logo---container{
-    width: 5px;
-    height: 5px;
-   background-size: cover;
-}
-
 
