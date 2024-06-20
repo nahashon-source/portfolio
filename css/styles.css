@@ -1,6 +1,20 @@
+/*In General*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
 body{
-    background-color: antiquewhite;
+background-color:aquamarine;
+font-family: "poppins",sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
 }
-h3{
-    color: brown;
+a{
+    text-decoration:none;
 }
+logo---container{
+    width: 5px;
+    height: 5px;
+   background-size: cover;
+}
+
+
